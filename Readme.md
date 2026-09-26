@@ -97,10 +97,3 @@ PLATEAUの3D都市モデルを都市育成シミュレーションゲーム"Citi
 - 本リポジトリについては予告なく変更又は削除をする可能性があります。
 - 本リポジトリの利用により生じた損失及び損害等について、国土交通省はいかなる責任も負わないものとします。
 
-## 10. 参考資料 <!-- 技術検証レポートのURLはアクセンチュアにて記載します。 -->
-- 技術検証レポート: https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0082_ver01.pdf
-- PLATEAU WebサイトのUse Caseページ「ゲーミフィケーションによる参加型まちづくり v2.0」: https://www.mlit.go.jp/plateau/use-case/uc23-12/
-- Cities: Skylines Wiki / Category:Programming : https://skylines.paradoxwikis.com/Category:Programming
-- mapbox/vector-tile-cs : https://github.com/mapbox/vector-tile-cs
-- その他の参考サイトは、本リポジトリのDocsフォルダ内の参考サイト.mdに記載しています。
-
